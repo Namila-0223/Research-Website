@@ -533,6 +533,10 @@ section {
   margin-bottom: 0;
 }
 
+.section-figure{
+  display: flex;
+  justify-content: center;
+}
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
